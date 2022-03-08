@@ -1,0 +1,69 @@
+{
+  "groceries": [
+    {
+      "title": "potato",
+      "purchased": false,
+      "id": 1
+    },
+    {
+      "title": "kurkure",
+      "purchased": false,
+      "id": 2
+    },
+    {
+      "title": "wafel",
+      "purchased": false,
+      "id": 3
+    },
+    {
+      "title": "dal",
+      "purchased": false,
+      "id": 4
+    },
+    {
+      "title": "pulses",
+      "purchased": false,
+      "id": 5
+    },
+    {
+      "title": "rice",
+      "purchased": false,
+      "id": 6
+    },
+    {
+      "title": "paneer",
+      "purchased": false,
+      "id": 7
+    },
+    {
+      "title": "milk",
+      "purchased": false,
+      "id": 8
+    },
+    {
+      "title": "curd",
+      "purchased": false,
+      "id": 9
+    },
+    {
+      "title": "potato",
+      "purchased": false,
+      "id": 10
+    },
+    {
+      "title": "potato",
+      "purchased": false,
+      "id": 11
+    },
+    {
+      "title": "bhujiya",
+      "purchased": false,
+      "id": 12
+    },
+    {
+      "title": "hgbub",
+      "purchased": false,
+      "id": 13
+    }
+  ]
+}
